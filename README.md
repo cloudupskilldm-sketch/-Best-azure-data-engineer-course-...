@@ -1,3 +1,3 @@
 # -Best-azure-data-engineer-course-...
  Best azure data engineer course onlinehttps://cloudupskills.com/ Best Azure Data Engineer course online with hands-on projects, DP-203 prep, and job support. Learn Data Factory, Databricks, Synapse at CloudUpskills.
-https://cloudupskills.com/
+https://cloudupskills.com
